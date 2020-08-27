@@ -1,7 +1,7 @@
 ## Langages
 * 🐍-Python
 * 🌎-Node.JS
-* 
+
 ## Projects
 A list of a few of my projects I have worked on, (open source) and (non open source)
 * 🌭-[Snags Supplier](https://github.com/PapaSnags/Snags-Supplier)  - Discord BOT that sends random images of Sausages (Snags) to your desired server. (open source)
