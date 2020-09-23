@@ -17,3 +17,7 @@ You can find a list of all my projects [here](https://github.com/PapaSnags/Proje
 * Discord Server - [Invite Link](https://discord.com/invite/w7B5nKB)
 * Website - [papa-snags.com](https://papa-snags.com/)
 * Email - mail@papa-snags.com
+<br>
+
+![PapaSnags github stats](https://github-readme-stats.vercel.app/api?username=PapaSnags&show_icons=true&theme=radical)
+
