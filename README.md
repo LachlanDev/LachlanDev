@@ -18,6 +18,6 @@ You can find a list of all my projects [here](https://github.com/PapaSnags/Proje
 * Website - [papa-snags.com](https://papa-snags.com/)
 * Email - mail@papa-snags.com
 <br>
-
 ![PapaSnags github stats](https://github-readme-stats.vercel.app/api?username=PapaSnags&show_icons=true&theme=radical)
+<br>
 ![PapaSnags repo stats](https://github-readme-stats.vercel.app/api/top-langs/?username=papasnags&theme=radical)
