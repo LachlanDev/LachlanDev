@@ -20,4 +20,6 @@ You can find a list of all my projects [here](https://github.com/PapaSnags/Proje
 <br>
 
 ![PapaSnags github stats](https://github-readme-stats.vercel.app/api?username=PapaSnags&show_icons=true&theme=radical)
-
+<a href="https://github.com/PapaSnags?tab=repositories">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=papasnags&theme=radical"/>
+</a>
