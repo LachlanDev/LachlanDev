@@ -5,7 +5,7 @@
 
 ## Projects
 A list of a few of my projects I have worked on, (open source) and (non open source)
-* 🤖-[SPROXIE](SPROXIE) - SPROXIE is a fast proxy checker and scraper, with modern UI. (open source)
+* 🤖-[SPROXIE](https://github.com/PapaSnags/SPROXIE) - SPROXIE is a fast proxy checker and scraper, with modern UI. (open source)
 * 🖥️-[Server Status](https://github.com/PapaSnags/Server-Status) - A Discord BOT that send notifications if your server goes offline. (open source)
 * 🧰-[Discord Tools](https://github.com/PapaSnags/Discord-Tools) - Discord Tools is a all in one multi Functional Utility Tool for Discord! (not open source)
 
