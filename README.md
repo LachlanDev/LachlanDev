@@ -12,7 +12,7 @@ You can find a list of all my projects [here](https://github.com/PapaSnags/Proje
 
 ## Other
 * Twitter - [@PapaSnags](https://twitter.com/PapaSnags)
-* Discord - Papa.Snags#1555
+* Discord - PapaSnags#1555
 * Discord Server - [Invite Link](https://discord.com/invite/w7B5nKB)
 * Website - [papa-snags.com](https://papa-snags.com/)
 * Email - mail@papa-snags.com
