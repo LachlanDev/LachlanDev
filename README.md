@@ -8,8 +8,6 @@ A list of a few of my projects I have worked on, (open source) and (non open sou
 * 🤖-[SPROXIE](https://github.com/PapaSnags/SPROXIE) - SPROXIE is a fast proxy checker and scraper, with modern UI. (open source)
 * 🖥️-[Server Status](https://github.com/PapaSnags/Server-Status) - A Discord BOT that send notifications if your server goes offline. (open source)
 
-You can find a list of all my projects [here](https://github.com/PapaSnags/Project-Archive/blob/master/README.md)
-
 ## Other
 * Twitter - [@PapaSnags](https://twitter.com/PapaSnags)
 * Discord - PapaSnags#1555
