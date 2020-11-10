@@ -3,10 +3,8 @@
 * 🌎-Node.JS
 * ⚙️-C#
 
-## Projects
-A list of a few of my projects I have worked on, (open source) and (non open source)
-* 🤖-[SPROXIE](https://github.com/PapaSnags/SPROXIE) - SPROXIE is a fast proxy checker and scraper, with modern UI. (open source)
-* 🖥️-[Server Status](https://github.com/PapaSnags/Server-Status) - A Discord BOT that send notifications if your server goes offline. (open source)
+## Latest Project
+PLUG. Making Discord BOT Development easy. PLUG. is a tool designed to help develop Discord BOT applications without having to write a single line of code! [Link](https://github.com/PapaSnags/PLUG)
 
 ## Other
 * Twitter - [@PapaSnags](https://twitter.com/PapaSnags)
