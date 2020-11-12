@@ -15,5 +15,3 @@ PLUG. Making Discord BOT Development easy. PLUG. is a tool designed to help deve
 <br>
 
 ![PapaSnags github stats](https://github-readme-stats.vercel.app/api?username=PapaSnags&show_icons=true&theme=radical)
-
-![PapaSnags repo stats](https://github-readme-stats.vercel.app/api/top-langs/?username=papasnags&theme=radical)
