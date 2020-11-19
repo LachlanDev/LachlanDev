@@ -1,12 +1,9 @@
-## Langages
-* 🐍-Python
-* 🌎-Node.JS
-* ⚙️-C#
+## Languages
+* 🐍 - Python
+* 🌎 - Node.JS
+* ⚙️ - C#
 
-## Latest Project
-PLUG. Making Discord BOT Development easy. PLUG. is a tool designed to help develop Discord BOT applications without having to write a single line of code! [Link](https://github.com/PapaSnags/PLUG)
-
-## Other
+## About
 * Twitter - [@PapaSnags](https://twitter.com/PapaSnags)
 * Discord - PapaSnags#1555
 * Discord Server - [Invite Link](https://discord.com/invite/w7B5nKB)
