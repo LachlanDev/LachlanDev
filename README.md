@@ -8,7 +8,7 @@
 * Discord Server - [Invite Link](https://discord.com/invite/w7B5nKB)
 * Website - [papa-snags.com](https://papa-snags.com/)
 * Email - mail@papa-snags.com
-* Discord - PapaSnags#1555
+* Discord - PapaSnags#8014
 
 <br>
 
