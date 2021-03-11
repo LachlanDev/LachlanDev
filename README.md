@@ -1,5 +1,6 @@
-## About
-Hello, I am Web-App / iOS developer, working on multiple open source projects, mainly backend using Node.JS and Mongodb. I have created a range of Discord BOT applications allowing me to become a Verified Discord Bot Developer.
+<h2> Hello, <img src="https://github.com/LachlanDev/LachlanDev/blob/master/Hi.gif" width="25"></h2>
+
+I am Web-App / iOS developer, working on multiple open source projects, mainly backend using Node.JS and Mongodb. I have created a range of Discord BOT applications allowing me to become a Verified Discord Bot Developer.
 
 ## Contact
 * Twitter - [@LachlanDev](https://twitter.com/LachlanDev)
