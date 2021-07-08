@@ -15,7 +15,7 @@ Hello, I am full stack developer, working on multiple open source projects, main
 <img align="left" alt="C#" width="26px" src="./content/csharp.png"/>
 <img align="left" alt="express" width="26px" src="./content/express.png"/>
 <img align="left" alt="discordjs" width="26px" src="./content/discord-js.png"/>
-<img align="left" alt="mongodb" width="26px" src="./content/mdb.png"/>
+<img align="left" alt="mongodb" width="26px" src="./content/mongo-logo.png"/>
 
 </br>
 </br>
