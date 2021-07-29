@@ -6,15 +6,7 @@ Hello, I am full stack developer, working on multiple open source projects, main
 -------------------
 
 ## Contact
-Twitter - [@LachlanDev](https://twitter.com/LachlanDev)
-  
-Discord Server - [Invite Link](https://discord.com/invite/w7B5nKB)
-  
-Website - [lachlan-dev.com](https://lachlan-dev.com/)
-  
-Email - mail@lachlan-dev.com
-  
-Discord - LachlanDev#8014
+<a href="https://www.instagram.com/LachlanDev/">![Instagram](https://img.shields.io/badge/LachlanDev-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)</a> <a href="https://twitter.com/LachlanDev">![Twitter](https://img.shields.io/badge/LachlanDev-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)</a> <a href="https://discord.com/invite/w7B5nKB">![Discord](https://img.shields.io/badge/Server-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)</a> ![Discord](https://img.shields.io/badge/LachlanDev%238014-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)
 
 -------------------
 
